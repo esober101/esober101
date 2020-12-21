@@ -1,8 +1,8 @@
-## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Eric Ober](https://esober101.github.io/my-portfolio/)
+## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Eric](https://esober101.github.io/my-portfolio/)
 
 <br>
 
-- 🌱 I’m a coding student currently learning **GIT | HTML | CSS | Javascript | Node.js**
+- 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js**
 - 🔭 I just finished working on | [readme-generator](https://github.com/esober101/readme-generator)
 - 📫 How to reach me | [ericscottober@gmail.com](mailto:ericscottober@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
