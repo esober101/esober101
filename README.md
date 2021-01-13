@@ -3,7 +3,7 @@
 <br>
 
 - 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js**
-- 🔭 I just finished working on | [team-profile-generator](https://github.com/esober101/team-generator)
+- 🔭 I just finished working on | [note-taker](https://github.com/esober101/note-taker)
 - 📫 How to reach me | [ericscottober@gmail.com](mailto:ericscottober@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <br>
