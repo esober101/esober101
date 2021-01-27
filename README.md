@@ -2,8 +2,8 @@
 
 <br>
 
-- 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js | Express | MySQL**
-- 🔭 I just finished working on | [employee-tracker](https://github.com/esober101/employee-tracker)
+- 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js | Express | MySQL | Heroku**
+- 🔭 I just finished working on | [burger app](https://github.com/esober101/burger)
 - 📫 How to reach me | [ericscottober@gmail.com](mailto:ericscottober@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <br>
@@ -20,10 +20,11 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esober101&show_icons=true&theme=dark)" alt="esober101" />
 
