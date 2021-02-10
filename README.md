@@ -3,7 +3,7 @@
 <br>
 
 - 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js | Express | MySQL | Heroku**
-- 🔭 I just finished working on | [burger app](https://github.com/esober101/burger)
+- 🔭 I just finished working on | [Travel Bucketlist](https://github.com/esober101/TeamProject2)
 - 📫 How to reach me | [ericscottober@gmail.com](mailto:ericscottober@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <br>
