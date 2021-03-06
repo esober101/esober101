@@ -3,7 +3,7 @@
 <br>
 
 - 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js | Express | MySQL | Heroku**
-- 🔭 I just finished working on | [Movie Showtime](https://infinite-oasis-00299.herokuapp.com/)
+- 🔭 I just finished working on | [Budget Tracker](https://serene-refuge-74083.herokuapp.com/)
 - 📫 How to reach me | [ericscottober@gmail.com](mailto:ericscottober@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <br>
