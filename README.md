@@ -1,4 +1,4 @@
-## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Eric](https://esober101.github.io/my-portfolio/)
+## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Eric](https://esober101.github.io/react-portfolio/#/)
 
 <br>
 
