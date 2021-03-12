@@ -2,8 +2,8 @@
 
 <br>
 
-- 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js | Express | MySQL | Heroku**
-- 🔭 I just finished working on | [Budget Tracker](https://serene-refuge-74083.herokuapp.com/)
+- 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js | Express | MySQL | Heroku | React**
+- 🔭 I just finished working on | [React Portfolio](https://esober101.github.io/react-portfolio/#/)
 - 📫 How to reach me | [ericscottober@gmail.com](mailto:ericscottober@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <br>
@@ -25,6 +25,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esober101&show_icons=true&theme=dark)" alt="esober101" />
 
