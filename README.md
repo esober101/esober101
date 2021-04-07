@@ -3,7 +3,7 @@
 <br>
 
 - 🌱 I’m currently learning **GIT | HTML | CSS | Javascript | Node.js | Express | MySQL | Heroku | React**
-- 🔭 I just finished working on | [React Portfolio](https://esober101.github.io/react-portfolio/#/)
+- 🔭 I just finished working on | [Everest](https://everest-time-manager.herokuapp.com/)
 - 📫 How to reach me | [ericscottober@gmail.com](mailto:ericscottober@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <br>
